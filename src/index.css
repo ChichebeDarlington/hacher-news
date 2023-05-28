@@ -159,7 +159,9 @@ Search
   letter-spacing: var(--spacing);
   margin-top: 1rem;
 }
-
+.form-input:focus {
+  outline: none;
+}
 /*
 =============== 
 Buttons
